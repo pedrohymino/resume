@@ -1,0 +1,30 @@
+$sides: (left, center, right);
+@each $align in $sides {
+  .txt-#{$align}{
+    text-align: #{$align};
+  }
+}
+
+
+$spaces: (5, 15, 20, 25);
+$sides: (top, right, bottom, left);
+
+@each $space in $spaces {
+  @each $side in $sides {
+    .m-#{str-slice($side, 0, 1)}-#{$space} {
+      margin-#{$side}: #{$space}px !important;
+    }
+    // NEGATIVE
+    .nm-#{str-slice($side, 0, 1)}-#{$space} {
+      margin-#{$side}: -#{$space}px !important;
+    }
+
+    .p-#{str-slice($side, 0, 1)}-#{$space} {
+      padding-#{$side}: #{$space}px !important;
+    }
+    // NEGATIVE
+    .np-#{str-slice($side, 0, 1)}-#{$space} {
+      padding-#{$side}: -#{$space}px !important;
+    }
+  }
+}
