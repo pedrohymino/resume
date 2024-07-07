@@ -3,9 +3,9 @@ VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 17.5.1//EN
 N:Hymino;Pedro;;;
 FN:Pedro Hymino
-item1.EMAIL;type=INTERNET;type=pref:pedrohymino@gmail.com
-item1.X-ABLabel:Pessoal
 TEL;type=CELL;type=VOICE;type=pref:+1 (604) 704-8043
+X-SOCIALPROFILE;type=Gmail;x-user=pedrohymino@gmail.con:x-apple:pedrohymino@gmail.con
+X-SOCIALPROFILE;type=GitHub;x-user=pedrohymino:x-apple:pedrohymino
 X-SOCIALPROFILE;type=linkedin:http://www.linkedin.com/in/pedro.hymino
 PHOTO;ENCODING=b;TYPE=JPEG:/9j/4AAQSkZJRgABAQAASABIAAD/4QBMRXhpZgAATU0AKgAA
  AAgAAYdpAAQAAAABAAAAGgAAAAAAA6ABAAMAAAABAAEAAKACAAQAAAABAAABQKADAAQAAAABAA
