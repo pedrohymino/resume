@@ -7,7 +7,8 @@ item1.EMAIL;type=INTERNET;type=pref:pedrohymino@gmail.com
 item1.X-ABLabel:E-mail
 item2.TEL;type=pref:+1 (604) 704-8043
 item2.X-ABLabel:Mobile
-X-SOCIALPROFILE;type=linkedin:http://www.linkedin.com/in/pedro.hymino
+X-SOCIALPROFILE;type=GitHub:https://github.com/pedrohymino
+X-SOCIALPROFILE;type=LinkedIn:https://www.linkedin.com/in/pedrohymino
 PHOTO;ENCODING=b;TYPE=JPEG:/9j/4AAQSkZJRgABAQAASABIAAD/4QBMRXhpZgAATU0AKgAA
  AAgAAYdpAAQAAAABAAAAGgAAAAAAA6ABAAMAAAABAAEAAKACAAQAAAABAAABQKADAAQAAAABAA
  ABQAAAAAD/wAARCAFAAUADASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcI
